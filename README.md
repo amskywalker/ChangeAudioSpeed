@@ -1,8 +1,12 @@
+## Important
+
+   This extension works best on whatsApp dark theme
+   
 ## ChangeAudioSpeed
 
    Google extension to change the speed of WhatsApp audios.
 
-### Getting Started
+## Getting Started
 
   Clone this repository.
 
