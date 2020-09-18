@@ -1,6 +1,9 @@
 ## Important
 
-   This extension works best on whatsApp dark theme
+   * This extension works best on whatsApp dark theme  
+   * For now the extension only accelerates to 2x
+   
+   If you want to change the speed, just change line 18
    
 ## ChangeAudioSpeed
 
